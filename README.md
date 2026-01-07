@@ -7,4 +7,11 @@
 </p>
 
 
-<table><tbody><tr><td><a href="https://octo-ring.com/"><img src="https://octo-ring.com/static/img/widget/top.png" width="99%" alt="Octo Ring logo" align="top"></a><br><a href="https://octo-ring.com/p/antedotee/prev"><img src="https://octo-ring.com/static/img/widget/prev.png" width="33%" alt="previous" align="top" title="previous profile"></a><a href="https://octo-ring.com/p/antedotee/random"><img src="https://octo-ring.com/static/img/widget/random.png" width="33%" alt="random" align="top" title="random profile"></a><a href="https://octo-ring.com/p/antedotee/next"><img src="https://octo-ring.com/static/img/widget/next.png" width="33%" alt="next" align="top" title="next profile"></a><br><a href="https://octo-ring.com/"><img src="https://octo-ring.com/static/img/widget/bottom.png" width="99%" alt="check out other GitHub profiles in the Octo Ring" align="top"></a></td></tr></tbody></table>
+<a href="https://octo-ring.com/p/dope232/prev">
+<img width="60" height="60" alt="octo-left" src="https://github.com/user-attachments/assets/713c496c-f1a7-4e81-b72c-7f3235b19723"/>
+</a>
+<br>
+
+<a href="https://octo-ring.com/p/dope232/next">
+  <img width="60" height="60" alt="octo-right" src="https://github.com/user-attachments/assets/bd7c23c3-9c94-4101-93be-f420b9faf360"/>  
+</a>
